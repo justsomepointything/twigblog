@@ -1,0 +1,4 @@
+baseURL = 'https://twig.art/'
+languageCode = 'en-us'
+title = 'a very pointy blog'
+theme = 'hugo-bearblog'
