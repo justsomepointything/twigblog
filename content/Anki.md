@@ -5,7 +5,7 @@ menu = "main"
 
 In November 2022, I finished studying two anki decks that I made/modified based on the content in the [Dictionaries of Japanese Grammar book series](https://www.amazon.com/Dictionary-Japanese-Learning-Language-Intermediate/dp/B01M3T4NJP), and posted the details to reddit.
 
-Since I originally posted the decks to a file host that reddit marks as spam, it was eventually removed. [Here's the original body] of the post, which I've reorganized a bit in the text below, along with a link to [the original thread](https://www.reddit.com/r/LearnJapanese/comments/yq11ep/today_marks_the_day_that_ive_officially_studied/).
+Since I originally posted the decks to a file host that reddit marks as spam, it was eventually removed. [Here's the original body]({{< ref "/redditpost.md" >}}) of the post, which I've reorganized a bit in the text below, along with a link to [the original thread](https://www.reddit.com/r/LearnJapanese/comments/yq11ep/today_marks_the_day_that_ive_officially_studied/).
 
 
 ### You can download the decks here: 
