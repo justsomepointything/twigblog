@@ -2,10 +2,8 @@
 title = "reddit post"
 +++
 
-# original anki deck reddit post
 
-
-**Original Post:**
+**original post:** [Link](https://www.reddit.com/r/LearnJapanese/comments/yq11ep/today_marks_the_day_that_ive_officially_studied/)
 
 **12/20/2022** Finally added to add to AnkiWeb's shared page; links, if not viewable now, should be available by tomorrow: [Grammar](https://ankiweb.net/shared/info/843402109) / [Vocab](https://ankiweb.net/shared/info/261818505) ; Also fixed audio for 一寸した
 
