@@ -1,0 +1,14 @@
+{
+    "name": "twig.art blog",
+    "short_name": "twig.art blog",
+    "icons": [
+        {
+            "src": "/android-chrome-96x96.png",
+            "sizes": "96x96",
+            "type": "image/png"
+        }
+    ],
+    "theme_color": "#bb9b7a",
+    "background_color": "#bb9b7a",
+    "display": "standalone"
+}
