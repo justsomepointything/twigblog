@@ -5,6 +5,8 @@ menu = "main"
 
 # Making anki cards for *A Dictionary of Japanese Grammar*
 
+---
+
 {{< toc >}}
 
 In November 2022, I finished studying two anki decks that I made/modified based on the content in the [Dictionaries of Japanese Grammar book series](https://www.amazon.com/Dictionary-Japanese-Learning-Language-Intermediate/dp/B01M3T4NJP), and posted the details to reddit.
@@ -12,7 +14,7 @@ In November 2022, I finished studying two anki decks that I made/modified based 
 Since I originally posted the decks to a file host that reddit marks as spam, it was eventually removed. [Here's the original body]({{< ref "/redditpost.md" >}}) of the post, which I've reorganized a bit in the text below.
 
 
-**### **You can download the decks here:** 
+**You can download the decks here:** 
 * [Grammar](https://ankiweb.net/shared/info/843402109)
 * [Vocab](https://ankiweb.net/shared/info/261818505)
 
