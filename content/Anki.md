@@ -12,11 +12,11 @@ In November 2022, I finished studying two anki decks that I made/modified based 
 Since I originally posted the decks to a file host that reddit marks as spam, it was eventually removed. [Here's the original body]({{< ref "/redditpost.md" >}}) of the post, which I've reorganized a bit in the text below.
 
 
-### You can download the decks here: 
-* #### [Grammar](https://ankiweb.net/shared/info/843402109)
-* #### [Vocab](https://ankiweb.net/shared/info/261818505)
+**### **You can download the decks here:** 
+* [Grammar](https://ankiweb.net/shared/info/843402109)
+* [Vocab](https://ankiweb.net/shared/info/261818505)
 
-### Methodology
+## Methodology
 
 There are over 5,000 sentences across the three books in the *A Dictionary of Japanese Grammar* series. There is an anki deck on itazuraneko which provides a card for each grammar point and sticks all of the sentences for each grammar point into it. Later, I found an anki deck in r/Japanese (which seems to have since been deleted) that was a modified version of the one on itazuraneko. This deck made a card for each sentence individually
 
@@ -26,11 +26,11 @@ Taking this modified deck, I:
 * adjusted card stying by adding a dark mode and mobile friendly sizing
 * added furigana to some words (and most names) in the sentence deck. This I did more for personal use because I hadn't originally planned to shared this deck so it is incomplete and not always reliable, but the functionality is there if you want it.
 
-### Why
+## Why
 
 ...Because, lol. Well, I really wanted a simple, low-effort way to study and remember grammar before I got to a place where I felt more comfortable reading (that ended up being not low effort at all in the end, but it will be for you). Things weren’t sticking with workbooks, and I wasn’t finding them helpful. Youtube videos for grammar points were helpful, but the repetition wasn’t there. So anki it was
 
-### How to use
+## How to use
 
 How I used these might not end up being what you do, and that's totally fine. But to give you some idea of what you might do:
 
@@ -40,11 +40,11 @@ Sometimes the vocabulary deck making took quite awhile, because I wasn’t sure 
 
 For the voices, I mostly added them in batch, but went back and re-recorded those with incorrect readings, or where the grammar point emphasized something was male or female speech. I'm still fixing these, so you may find errors in readings here--**please let me know if you find an error** and I'll update the deck.
 
-### Card specifics
+## Card specifics
 
 Here are what the cards look like:
 
-#### Sentence Cards
+### Sentence Cards
 
 **Sentence card front**
 
@@ -68,7 +68,7 @@ Some words in this deck (particularly names) have ruby-enabled furigana; just ho
 
 The *Japanese* field was originally there to make the deck compatible with the Japanese add on, but it was unnecessary. Some, but not all, of the sentences I fixed typos for have the typos fixed only in the *Reading* field, which is the field that will display on your card. The *Japanese* field is not displayed.
 
-#### Vocabulary Cards
+### Vocabulary Cards
 
 **Vocab Front**
 
@@ -101,7 +101,7 @@ If you use a sentence not from the grammar deck, you can put a link to where you
 In this example, in the notes field I put a translation of the first sentence. I found this sentence and its translation in a dictionary, so there's no link.
 
 
-### Caveats
+## Caveats
 
 * I wasn't planning on sharing this, so the vocabulary deck has about ten or fifteen words that aren't in the books; I didn't mark them, so I don't know which ones they are.
 * Sometimes the ADoJG's English translations are needlessly over localized. There are about ten sentences I edited the translation of to be more literal, but they are unmarked. I don't remember which these were
@@ -110,7 +110,7 @@ In this example, in the notes field I put a translation of the first sentence. I
 * If you make any edits to the code, I'm sorry in advance. I am not a developer by any means, and the code is a huge mess. I've been meaning to clean it up and I just haven't. Learning html and css is another hobby I pursued in the creation of these cards, and it is probably very apparent when looking at the code.
 
 
-### Credits
+## Credits
 
 - [/u/TrainOfPotatoes](https://www.reddit.com/u/TrainOfPotatoes/), who seems to be the original author of the theme for the grammar deck I found. My version has been changed quite a bit, though
 - [ninja33 on Github](https://github.com/ninja33/anki-templates), who made the base version of the theme for the vocabulary deck I ended up changing
