@@ -1,5 +1,5 @@
 +++
-title = 'anki'
+title = Making anki cards for A Dictionary of Japanese Grammar
 menu = "main"
 +++
 
